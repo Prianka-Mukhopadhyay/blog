@@ -1,7 +1,7 @@
 # The Hugging Face Blog Repository 🤗
 This is the official repository of the [Hugging Face Blog](https://hf.co/blog). 
 
-**If you are an external contributor**: If your blog post is not a collaboration post with Hugging Face, please consider creating a [community blog](https://huggingface.co/blog-explorers) instead. Community blog posts appear on our blogs main page just like the blogs in this repository.
+**If you are an external contributor**: If your blog post is not a collaboration post with Hugging Face, please consider creating a [community blog](https://huggingface.co/blog-explorers) instead. Community blog posts appear on our blog’s main page just like the blogs in this repository.
 
 ## How to write an article? 📝
 1️⃣ Create a branch `YourName/Title`
@@ -40,7 +40,7 @@ When published, the Hub will insert the following UI elements right after the bl
 - "Update on GitHub" button
 - avatars of the authors that were listed in authors.
 
-5️⃣ Then, you can add your content. It's markdown system so if you wrote your text on notion just control shift v to copy/paste as markdown.
+5️⃣ Then, you can add your content. It's markdown system so if you wrote your text on notion just use Ctrl+Shift+V to paste as markdown.
 
 6️⃣ Modify `_blog.yml` to add your blogpost.
 
@@ -53,7 +53,7 @@ When published, the Hub will insert the following UI elements right after the bl
 
 2️⃣ Use [this template](https://github.com/huggingface/blog/blob/main/assets/thumbnail-template.svg) and fill the content part.
 
-➡️ Or select a background you like and follow the instructions in [this Figma template](https://www.figma.com/file/sXrf9VtkkbWI7kCIesMkDY/HF-Blog-Template?node-id=351%3A39).
+➡️ Or select a background you like and follow the instructions in [the Figma template](https://www.figma.com/file/sXrf9VtkkbWI7kCIesMkDY/HF-Blog-Template?node-id=351%3A39).
 
 
 ## Using LaTeX
